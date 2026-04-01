@@ -1,4 +1,4 @@
-# Gemini Chatbot (Streamlit)
+# Gemini Chatbot
 
 A simple web-based chatbot built with Streamlit that uses Google's Gemini API to answer user questions in a chat-style interface.
 
